@@ -6,7 +6,7 @@
 
 # execute :
 - melalui command line
-- python deteksi-bahasa.py
+- python uas-spk-deteksi-bahasa.py
 - OR
 - dobel klik pada program
 
